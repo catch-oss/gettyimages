@@ -1,5 +1,5 @@
 {
-    "name": "gettyimages/gettyimages-api",
+    "name": "catch/gettyimages",
     "description": "Getty Images API SDK - PHP",
     "minimum-stability": "stable",
     "license": "MIT",
