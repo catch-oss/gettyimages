@@ -3,7 +3,7 @@
     "description": "Getty Images API SDK - PHP",
     "minimum-stability": "stable",
     "license": "MIT",
-	"type": "silverstripe-module",
+    "type": "library",
     "keywords": ["images","getty","gettyimages","photo","photos","search","creative","artist","embed"],
     "homepage": "http://developer.gettyimages.com",
     "authors": [
