@@ -3,6 +3,7 @@
     "description": "Getty Images API SDK - PHP",
     "minimum-stability": "stable",
     "license": "MIT",
+    "type": "library",
     "keywords": ["images","getty","gettyimages","photo","photos","search","creative","artist","embed"],
     "homepage": "http://developer.gettyimages.com",
     "authors": [
@@ -23,10 +24,5 @@
     "require-dev" : {
         "phine/phar": "~1.0",
         "behat/behat": "~3.0.6"
-    },
-    "autoload" : {
-        "psr-4" : {
-            "GettyImages\\Api\\": "src/"
-        }
     }
 }
